@@ -1,2 +1,2 @@
 # drivefaster.org
-My thesis project at AAU in SF. A way to track and share the locations of police speed traps.
+This is DriveFaster. A web app for sharing info about police activity and the locations of police speed traps in real time. The goal of DriveFaster is to create a coordinated effort to end the practice of law enforcement hiding on the side of the road and preying on unsuspecting drivers. Express freedom of information through a shared map, and through a browser-to-browser radio that lets you, the user and tax payer, share information about police activity with other drivers around you.
